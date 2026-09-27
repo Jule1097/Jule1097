@@ -1,4 +1,4 @@
-# 👨‍💻 Junior Full Stack Developer
+# 👨‍💻 Full Stack Developer
 
 Graduated as a **Systems Analyst** from *Instituto Tecnológico ORT*.  
 Experience in web application development using **JavaScript, TypeScript, Node.js, NextJS, NestJS, Vue.js, and React**.  
